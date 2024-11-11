@@ -6,14 +6,14 @@
     <title>Comentarios</title>
 </head>
 <body>
-    <h1>Deja un comentario</h1>
-    <p>Deja tus comentarios sobre este perfil aquí.</p>
+    <h1>Leave a commentary</h1>
+    <p>Leave your comments about this profile here</p>
 
     <!-- Widget de comentarios de Utterances -->
     <script src="https://utteranc.es/client.js"
             repo="JoakoU/index.html"
             issue-term="pathname"
-            label="Comentarios"
+            label="comments"
             theme="github-dark"
             crossorigin="anonymous"
             async>

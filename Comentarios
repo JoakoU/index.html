@@ -10,13 +10,13 @@
     <p>Leave your comments about this profile here</p>
 
     <!-- Widget de comentarios de Utterances -->
-    <script src="https://utteranc.es/client.js"
-            repo="JoakoU/index.html"
-            issue-term="pathname"
-            label="comments"
-            theme="github-dark"
-            crossorigin="anonymous"
-            async>
-    </script>
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/JoakoU/index.html"
+        issue-term="pathname"
+        label="Comment🔥"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 </body>
 </html>

@@ -11,7 +11,7 @@
 
     <!-- Widget de comentarios de Utterances -->
     <script src="https://utteranc.es/client.js"
-            repo="JoakoU/Comentarios"
+            repo="JoakoU/index.html"
             issue-term="pathname"
             label="Comentarios"
             theme="github-dark"
